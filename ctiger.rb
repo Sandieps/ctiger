@@ -6,6 +6,5 @@ class CTiger < Formula
         system "cmake", "./"
         system "make"
         system "make", "install"
-        end
     end
 end
