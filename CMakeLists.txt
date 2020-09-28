@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(tiger)
+set(CMAKE_CXX_STANDARD 14)
+add_library(appone appone/app.c appone/app.h)
+add_executable(tiger appone/main.c)
+target_link_libraries(tiger PUBLIC appone)
+set(CMAKE_INSTALL_PREFIX /usr/local/bin)
+install(TARGETS tiger DESTINATION ${CMAKE_INSTALL_PREFIX})

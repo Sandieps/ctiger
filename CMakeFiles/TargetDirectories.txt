@@ -1,0 +1,8 @@
+/Users/sandie/Documents/appone/CMakeFiles/install/local.dir
+/Users/sandie/Documents/appone/CMakeFiles/install/strip.dir
+/Users/sandie/Documents/appone/CMakeFiles/install.dir
+/Users/sandie/Documents/appone/CMakeFiles/rebuild_cache.dir
+/Users/sandie/Documents/appone/CMakeFiles/edit_cache.dir
+/Users/sandie/Documents/appone/CMakeFiles/list_install_components.dir
+/Users/sandie/Documents/appone/CMakeFiles/tiger.dir
+/Users/sandie/Documents/appone/CMakeFiles/appone.dir

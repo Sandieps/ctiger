@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sandie/Documents/appone/appone/app.c
+app.h
+/Users/sandie/Documents/appone/appone/app.h
+err.h
+-
+pthread/pthread.h
+-
+unistd.h
+-
+string.h
+/Users/sandie/Documents/appone/appone/string.h
+netinet/in.h
+/Users/sandie/Documents/appone/appone/netinet/in.h
+netdb.h
+/Users/sandie/Documents/appone/appone/netdb.h
+stdlib.h
+-
+arpa/inet.h
+-
+
+/Users/sandie/Documents/appone/appone/app.h
+stdio.h
+-
+

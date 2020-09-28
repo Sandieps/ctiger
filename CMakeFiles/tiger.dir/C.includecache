@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sandie/Documents/appone/appone/app.h
+stdio.h
+-
+
+/Users/sandie/Documents/appone/appone/main.c
+stdio.h
+-
+app.h
+/Users/sandie/Documents/appone/appone/app.h
+

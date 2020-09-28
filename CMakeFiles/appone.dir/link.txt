@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libappone.a CMakeFiles/appone.dir/appone/app.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libappone.a
